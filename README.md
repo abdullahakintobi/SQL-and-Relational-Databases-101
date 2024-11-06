@@ -8,4 +8,5 @@ My solutions to SQL and Relational Databases 101 course exercises on CognitiveCl
 
 ## Database Used
 The database used in this lab is an internal database. You will be working on a sample HR database. This HR database schema consists of 5 tables called EMPLOYEES, JOB_HISTORY, JOBS, DEPARTMENTS and LOCATIONS. Each table has a few rows of sample data. The following diagram shows the tables for the HR database:
-![alternative text](HR-DATABASE-TABLES.png "HR-DATABASE-TABLES")
+![HR-DATABASE-TABLES](./images/HR-DATABASE-TABLES.png)
+
