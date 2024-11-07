@@ -24,5 +24,9 @@ WHERE
 	AND SALARY BETWEEN 60000 AND 70000;
 --
 -- Exercise 2: Sorting
--- 
-
+-- Retrieve a list of employees ordered by department ID.
+SELECT
+	*
+FROM 
+	EMPLOYEES
+ORDER BY DEP_ID;
